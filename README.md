@@ -34,5 +34,7 @@ a.mean()
 ```
 _0.9783333333333334_
 
-This wraps up the project. Thank you.
+This wraps up the project.
+
+Thank you.
 
